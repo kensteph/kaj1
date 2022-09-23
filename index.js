@@ -1,1 +1,1 @@
-console.log("Good bye Digicel!!!!!!!!!!!1");
+console.log("Good bye Digicel!!!!!!!!");
